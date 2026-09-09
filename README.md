@@ -57,6 +57,9 @@ Documentación de proyectos de redes e IoT.
 
  #5. Descripción
 En esta actividad se desarrolló un servidor web embebido utilizando una placa ESP32 junto con un módulo Ethernet ENC28J60. El propósito fue establecer una comunicación mediante una red local utilizando una conexión Ethernet y permitir que el ESP32 recibiera solicitudes desde un navegador web. Para realizar la práctica se configuró una dirección IP estática y se utilizó la biblioteca UIP Ethernet, que permite establecer la comunicación entre el ESP32 y el módulo ENC28J60. Como aplicación práctica, se desarrolló una interfaz web desde la cual es posible encender y apagar un LED conectado al ESP32. Esta práctica es relevante para los entornos inteligentes debido a que demuestra cómo un dispositivo físico puede ser controlado remotamente mediante una red, siendo un ejemplo básico de interacción entre dispositivos IoT y servicios web. 
+
+
+
 #6. Requisitos
 Hardware necesario:
 ESP32.
