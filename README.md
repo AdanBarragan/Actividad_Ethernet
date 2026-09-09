@@ -148,65 +148,14 @@ Utilizar los botones ENCENDER y APAGAR para controlar el LED.
 
 8. Conexiones de Hardware
 
-Señal del Módulo 
-Pin de Placa
-Función
-VCC
-3,3V
-Alimentación
-GND
-GND
-Tierra
-SCK
-GPIO 18
-Reloj SPI
-SO/MOSI
-GPIO 19
-Datos ENC28J60 al ESP32
-SI/MOSI
-GPIO 23
-Datos ENCJ28J60 al ESP32 
-CS
-GPIO 5
-Selección del dispositivo 
-INT
-no utilizado
-Interrupción opcional 
+<img width="619" height="283" alt="image" src="https://github.com/user-attachments/assets/7e3107c0-c41a-4ba0-ac93-d999504d3771" />
+
 
 
 9. Parámetros Técnicos del ENC28J60
 
-Parámetro
-Valor Típico 
-Unidad
-Alimentación del chip 
-3.3
-V
-Interfaz de comunicación 
-SPI
-–
-Frecuencia máxima SPI 
-20
-MHz
-Velocidad Ethernet 
-10
-Mbps
-Estándar Ethernet 
-IEEE 802.3
-–
-Tipo de conexión 
-Ethernet cableada 
-–
-Conector 
-RJ45
+<img width="613" height="281" alt="image" src="https://github.com/user-attachments/assets/0b36761d-beb6-484e-921d-d6084b234fda" />
 
-
-Puerto utilizado por el servidor 
-80
-–
-Comunicación con ESP32 
-SPI
-–
 
 
 10. Uso y ejemplos de Código
