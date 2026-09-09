@@ -327,13 +327,13 @@ Asignar una IP libre en la red
 Describe el flujo de trabajo para aportar mejoras: fork del repositorio, creación de ramas,
 convenciones de nombres y apertura de pull requests.
 
-1. Fork del repositorio
+#1. Fork del repositorio
 Haz un fork del repositorio a tu cuenta de GitHub usando el botón Fork en la esquina superior derecha.
-2. Clona tu fork
+#2. Clona tu fork
 bash
 git clone https://github.com/tu-usuario/nombre-del-repositorio.git
 cd nombre-del-repositorio
-3. Crea una rama para tu cambio
+#3. Crea una rama para tu cambio
 No trabajes directamente sobre main. Crea una rama descriptiva:
 bash
 git checkout -b tipo/descripcion-breve
@@ -351,29 +351,29 @@ Reestructuración de código sin cambiar funcionalidad
 test/
 Adición o mejora de pruebas
 
-4. Realiza tus cambios
+#4. Realiza tus cambios
 Sigue el estilo de código existente en el proyecto.
 Comenta las secciones relevantes si el cambio no es evidente.
 Prueba los cambios en hardware real (ESP32 + ENC28J60) antes de subirlos.
-5. Haz commit de tus cambios
+#5. Haz commit de tus cambios
 Usa mensajes de commit claros y en tiempo presente:
 bash
 git add .
 git commit -m "fix: corrige el manejo de la ruta /led/off"
-6. Sube la rama a tu fork
+#6. Sube la rama a tu fork
 bash
 git push origin tipo/descripcion-breve
-7. Abre un Pull Request
+#7. Abre un Pull Request
 Ve a tu fork en GitHub y haz clic en Compare & pull request.
 Describe claramente:
 Qué problema resuelve o qué mejora aporta.
 Cómo se probó el cambio.
 Capturas de pantalla o logs del Monitor Serie si aplica.
 Asegúrate de que tu rama esté actualizada con main antes de enviarlo (git pull origin main o rebase).
-8. Revisión y fusión
+#8. Revisión y fusión
 El pull request será revisado por los mantenedores del proyecto. Es posible que se soliciten ajustes antes de fusionarlo. Una vez aprobado, se integrará a la rama principal.
 
-15. Referencias
+#15. Referencias
 Solicita un listado de fuentes bibliográficas y recursos consultados, aplicando un estilo de
 citación uniforme (APA, IEEE, etc.).
 
