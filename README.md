@@ -366,6 +366,13 @@ Asegúrate de que tu rama esté actualizada con main antes de enviarlo (git pull
 El pull request será revisado por los mantenedores del proyecto. Es posible que se soliciten ajustes antes de fusionarlo. Una vez aprobado, se integrará a la rama principal.
 
 #15. Referencias
-Solicita un listado de fuentes bibliográficas y recursos consultados, aplicando un estilo de
-citación uniforme (APA, IEEE, etc.).
+
+
+ #Renzo Mischianti. (2022, November 14). ESP32: ethernet enc28j60 with plain (HTTP) and SSL (HTTPS) - Mischianti. Renzo Mischianti. https://mischianti.org/esp32-ethernet-enc28j60-with-plain-http-and-ssl-https/
+
+#Perú, N. M. (2023). Tutorial Módulo Ethernet ENC28J60 y Arduino. Naylamp Mechatronics - Perú. https://naylampmechatronics.com/blog/17_tutorial-modulo-ethernet-enc28j60-y-arduino.html
+[1]
+#“IEEE SA - Standards Store | IEEE 802.3-2018,” Accuristech.com, July 29, 2022. https://store.accuristech.com/standards/ieee-802-3-2022?product_id=2241245 (accessed Sept. 09, 2026).
+
+
 
