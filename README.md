@@ -1,3 +1,4 @@
+
 Facultad de Telemática
 Ingenieria en Tecnologias de Internet
 Asignatura: Entornos Inteligentes y Tecnologías Disruptivas
@@ -318,15 +319,20 @@ ENC28J60.
 Cable Ethernet.
 Protoboard.
 LED.
-Cableado utilizado.
- <img width="479" height="511" alt="image" src="https://github.com/user-attachments/assets/ddb32a3e-2684-4272-8c03-7c552e5067e0" />
+Cableado utilizado
+
+<img width="479" height="511" alt="image" src="https://github.com/user-attachments/assets/ab8d8b04-cf13-4d0c-94ce-4df19b1690a4" />
+
 
 Captura del navegador mostrando la interfaz del servidor web.
-  <img width="603" height="448" alt="image" src="https://github.com/user-attachments/assets/9e681fa2-d4c1-47f0-848c-349b47febf21" />
 
-  
+<img width="630" height="455" alt="image" src="https://github.com/user-attachments/assets/5d2d834a-b050-41a3-8f61-378ea1c49840" />
+
+
 Evidencia del led encendido.
-<img width="608" height="456" alt="image" src="https://github.com/user-attachments/assets/4f33f83a-29d7-4d2a-b732-6f21eaf12734" />
+
+<img width="625" height="461" alt="image" src="https://github.com/user-attachments/assets/2a960d5c-7cde-431f-b833-109579a27b52" />
+
 
 
 12. Consideraciones Éticas y de Seguridad
@@ -434,3 +440,4 @@ El pull request será revisado por los mantenedores del proyecto. Es posible que
 15. Referencias
 Solicita un listado de fuentes bibliográficas y recursos consultados, aplicando un estilo de
 citación uniforme (APA, IEEE, etc.).
+
