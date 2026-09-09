@@ -31,9 +31,9 @@ Martinez Guzmán Ignacio
 14. Contribuciones	
 15. Referencias	
 
-1. Objetivo General
+ 1. Objetivo General
 Implementar un servidor web embebido utilizando un ESP32 y el módulo Ethernet ENC28J60 para establecer comunicación mediante una red local y controlar el encendido y apagado de un LED desde un navegador web. 
-2. Objetivos Específicos
+ 2. Objetivos Específicos
 Configurar el módulo ENC28J60 para proporcionar conectividad Ethernet al ESP32.
 Establecer una dirección IP estática para permitir el acceso al dispositivo dentro de la red local.
 Implementar un servidor web utilizando el protocolo HTTP y el puerto 80.
@@ -42,7 +42,7 @@ Controlar el estado de un LED mediante comandos enviados desde una interfaz web.
 Diseñar una página web sencilla que permita visualizar el estado actual del LED.
 Comprobar la comunicación entre el ESP32, el ENC28J60 y un equipo conectado a la misma red.
 
-3. Competencias
+ 3. Competencias
 Configuración de redes Ethernet.
 Programación de microcontroladores ESP32.
 Implementación de servidores web embebidos.
@@ -55,7 +55,7 @@ Control de dispositivos mediante interfaces web.
 Documentación de proyectos de redes e IoT.
 
 
-5. Descripción
+ 5. Descripción
 En esta actividad se desarrolló un servidor web embebido utilizando una placa ESP32 junto con un módulo Ethernet ENC28J60. El propósito fue establecer una comunicación mediante una red local utilizando una conexión Ethernet y permitir que el ESP32 recibiera solicitudes desde un navegador web. Para realizar la práctica se configuró una dirección IP estática y se utilizó la biblioteca UIP Ethernet, que permite establecer la comunicación entre el ESP32 y el módulo ENC28J60. Como aplicación práctica, se desarrolló una interfaz web desde la cual es posible encender y apagar un LED conectado al ESP32. Esta práctica es relevante para los entornos inteligentes debido a que demuestra cómo un dispositivo físico puede ser controlado remotamente mediante una red, siendo un ejemplo básico de interacción entre dispositivos IoT y servicios web. 
 6. Requisitos
 Hardware necesario:
