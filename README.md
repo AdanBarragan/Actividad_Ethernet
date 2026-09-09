@@ -15,21 +15,21 @@ Rolón Vazquez Edgar Donaldo
 Martinez Guzmán Ignacio
 
 
-1. Objetivo General	3
-2. Objetivos Específicos	3
-3. Competencias	3
-4. Tabla de Contenidos	3
-5. Descripción	4
-6. Requisitos	4
-7. Instalación y Configuración	5
-8. Conexiones de Hardware	6
-9. Parámetros Técnicos del ENC28J60	6
-10. Uso y ejemplos de Código	7
-11. Resultados de Prueba	9
-12. Consideraciones Éticas y de Seguridad	9
-13. Solución de Problemas	10
-14. Contribuciones	11
-15. Referencias	11
+1. Objetivo General	
+2. Objetivos Específicos	
+3. Competencias	
+4. Tabla de Contenidos	
+5. Descripción	
+6. Requisitos	
+7. Instalación y Configuración	
+8. Conexiones de Hardware	
+9. Parámetros Técnicos del ENC28J60	
+10. Uso y ejemplos de Código	
+11. Resultados de Prueba	
+12. Consideraciones Éticas y de Seguridad	
+13. Solución de Problemas	
+14. Contribuciones	
+15. Referencias	
 
 1. Objetivo General
 Implementar un servidor web embebido utilizando un ESP32 y el módulo Ethernet ENC28J60 para establecer comunicación mediante una red local y controlar el encendido y apagado de un LED desde un navegador web. 
